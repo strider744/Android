@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="toast_message">Toast Message</string>
+    <string name="btn_reset_text">Reset Counter</string>
+</resources>
